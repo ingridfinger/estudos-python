@@ -1,0 +1,60 @@
+
+# ==============================
+# PYTHON - Cache e compilação
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# AMBIENTES VIRTUAIS
+# ==============================
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# VARIÁVEIS DE AMBIENTE E SENHAS
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# LOGS E ARQUIVOS TEMPORÁRIOS
+# ==============================
+*.log
+*.tmp
+
+# ==============================
+# TESTES E COBERTURA
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# JUPYTER NOTEBOOKS
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# FERRAMENTAS E EDITORES
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# SISTEMA OPERACIONAL
+# ==============================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# ARQUIVOS GERADOS
+# ==============================
+build/
+dist/
+*.egg-info/
