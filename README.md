@@ -1,33 +1,37 @@
-﻿# 🐍 Estudos de Python 🎀
+# 🐍₊˚⊹ Estudos de Python
 
-୨୧ ─────────────── ୨୧
+![Python](https://img.shields.io/badge/Python-Em%20aprendizado-F8BBD0?style=for-the-badge&logo=python&logoColor=6D4055)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-FCE4EC?style=for-the-badge&logo=visualstudiocode&logoColor=6D4055)
+![GitHub](https://img.shields.io/badge/GitHub-Repositório-F8BBD0?style=for-the-badge&logo=github&logoColor=6D4055)
 
-Repositório dedicado aos meus estudos e à minha evolução na linguagem **Python**.
+🌷 Repositório dedicado aos meus estudos e à minha evolução na linguagem **Python**, reunindo anotações, exercícios, desafios e projetos práticos.
 
-Aqui compartilho códigos, exercícios, desafios e projetos desenvolvidos durante minha jornada de aprendizado. ♡
+---
 
-## 🎀 Sobre o projeto
+## 📚 Sobre o projeto
 
 O objetivo deste repositório é documentar minha evolução em Python, desde os fundamentos da programação até conceitos mais avançados, sempre colocando o conhecimento em prática.
 
-**Status:** 🌸 Em andamento
+Aqui serão registrados os conteúdos estudados, exemplos de código e projetos desenvolvidos ao longo do aprendizado.
 
-## 📚 Conteúdos estudados
+## 📝 Conteúdos estudados
 
-- [ ] Introdução ao Python
-- [ ] Instalação e configuração do ambiente
-- [ ] Variáveis e tipos de dados
-- [ ] Operadores
-- [ ] Estruturas condicionais
-- [ ] Estruturas de repetição
-- [ ] Listas, tuplas, conjuntos e dicionários
-- [ ] Funções
-- [ ] Manipulação de arquivos
-- [ ] Tratamento de erros e exceções
-- [ ] Módulos e bibliotecas
-- [ ] Programação orientada a objetos
-- [ ] Manipulação e análise de dados
-- [ ] Projetos práticos
+| Conteúdo | Status |
+|---|---|
+| Introdução ao Python | ⬜ |
+| Instalação e configuração do ambiente | ⬜ |
+| Variáveis e tipos de dados | ⬜ |
+| Operadores | ⬜ |
+| Estruturas condicionais | ⬜ |
+| Estruturas de repetição | ⬜ |
+| Listas, tuplas, conjuntos e dicionários | ⬜ |
+| Funções | ⬜ |
+| Manipulação de arquivos | ⬜ |
+| Tratamento de erros e exceções | ⬜ |
+| Módulos e bibliotecas | ⬜ |
+| Programação orientada a objetos | ⬜ |
+| Manipulação e análise de dados | ⬜ |
+| Projetos práticos | ⬜ |
 
 ## 🗂️ Organização do repositório
 
@@ -50,12 +54,10 @@ estudos-python/
 ![Git](https://img.shields.io/badge/Git-F8BBD0?style=flat-square&logo=git&logoColor=6D4055)
 ![GitHub](https://img.shields.io/badge/GitHub-FCE4EC?style=flat-square&logo=github&logoColor=6D4055)
 
-## 🌷 Minha evolução
+## 🎯 Objetivo
 
-Este espaço será atualizado conforme avanço nos estudos, registrando novos conteúdos, exercícios e projetos.
+Construir uma base sólida em Python, desenvolver a lógica de programação e ganhar experiência por meio de exercícios e projetos.
 
-Cada pasta representa uma etapa do meu aprendizado e cada commit, um pequeno passo na minha evolução como desenvolvedora.
+Este repositório será atualizado conforme o avanço dos estudos, registrando cada novo conteúdo e prática realizada.
 
-୨୧ ─────────────── ୨୧
-
-*Aprendendo, praticando e evoluindo um código de cada vez.* ♡
+---
